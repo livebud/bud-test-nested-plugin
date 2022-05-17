@@ -1,5 +1,5 @@
 package plugin
 
-type Answer = int
+type Answer = string
 
-const Two Answer = 2
+const Two Answer = "two"
